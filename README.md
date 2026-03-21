@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shaswat 👋
 
-<!--
-**shrivastavshaswat7-dot/shrivastavshaswat7-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Learning C/C++ & Data Structures  
+🚀 Exploring Software Development  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C Programming
+- C++ (Basic)
+- Data Structures (Learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Working On
+- Improving problem-solving skills
+- Building beginner projects
+
+## 🎯 Goals
+- Become a strong Software Developer
+- Build real-world projects.
