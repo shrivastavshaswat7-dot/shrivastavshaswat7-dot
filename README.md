@@ -1,19 +1,36 @@
 # Hi, I'm Shaswat 👋
 
-🎓 CSE Student  
-💻 Learning C/C++ & Data Structures  
-🚀 Exploring Software Development  
+🎓 B.Tech CSE Student
+💻 Software Development & Data Structures & Algorithms
+🛠️ Building projects and strengthening problem-solving skills
 
-## 🔧 Skills
-- C Programming
-- C++ (Basic)
-- Data Structures (Learning)
-- Git & GitHub
+## 🔧 Tech & Tools
 
-## 📌 Currently Working On
-- Improving problem-solving skills
-- Building beginner projects
+* C / C++
+* Python
+* JavaScript
+* React
+* Git & GitHub
+* Supabase
 
-## 🎯 Goals
-- Become a strong Software Developer
-- Build real-world projects.
+## 🚀 Projects
+
+### SmartCare
+
+Hospital appointment and queue management web application.
+
+### TaskMindAI
+
+AI-powered student productivity assistant.
+
+## 🎯 Current Focus
+
+* Strengthening DSA with C++
+* Building practical software projects
+* Improving development fundamentals
+* Learning by building and solving problems
+
+## 📫 Connect
+
+* LinkedIn: [Shaswat Srivastav](https://www.linkedin.com/in/shaswat-srivastav/)
+
