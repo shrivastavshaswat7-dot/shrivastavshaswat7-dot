@@ -1,6 +1,4 @@
-
-
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0EA5E9&height=190&section=header&text=Shaswat%20Srivastav&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
 </p>
 
@@ -17,66 +15,91 @@
 ```python
 class Shaswat:
     def __init__(self):
-        self.education = "B.Tech CSE"
-        self.interests = ["Generative AI", "Software Engineering"]
+        self.education = "B.Tech CSE @ GCET"
+        self.interests = [
+            "Artificial Intelligence",
+            "Generative AI",
+            "Software Engineering"
+        ]
         self.languages = ["C++", "Python"]
+        self.focus = ["LLMs", "RAG", "AI Agents"]
         self.mindset = "Learn → Build → Improve"
 
     def current_goal(self):
-        return "Building practical things and getting better every day."
+        return "Become a skilled AI Engineer"
 
 me = Shaswat()
 ```
 
-I'm a Computer Science student exploring **Generative AI and Software Engineering**.
+I'm a Computer Science student at **Galgotias College of Engineering & Technology**, interested in building practical applications using AI and software engineering.
 
-I enjoy experimenting with technologies, integrating APIs, and turning what I learn into practical projects.
+I enjoy experimenting with LLM APIs, exploring new technologies, solving problems and turning ideas into working projects.
 
-> Focused on learning, problem-solving and creating.
+- 🤖 Exploring Generative AI and LLM applications.
+- 🧠 Learning Retrieval-Augmented Generation (RAG).
+- 💻 Practicing Data Structures & Algorithms in C++.
+- 🚀 Building projects to strengthen my engineering skills.
+
+---
+
+### 🎓 Education
+
+**Galgotias College of Engineering & Technology (GCET)**
+
+B.Tech — Computer Science & Engineering
 
 ---
 
 ### ⚙️ Tech Arsenal
 
-**Languages**
+**Programming Languages**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,python&theme=light">
-  <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++ and Python" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
 
-**Tools & Platforms**
+**Development & Tools**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,supabase&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,supabase&theme=light">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,supabase" alt="Git, GitHub, VS Code and Supabase" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,react,fastapi" />
+</p>
 
-**AI & LLM APIs**
+**AI & LLM Ecosystem**
 
-`Groq` · `Mistral` · `Gemini` · `Hugging Face`
+`LangChain` · `Groq` · `Mistral` · `Gemini` · `Hugging Face`
 
-<sub>Hands-on API integrations and experimentation.</sub>
+<sub>Hands-on experience with LLM APIs, integrations and experimentation.</sub>
 
 ---
 
-### 🚀 Projects in Progress
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🏥 SmartCare</h3>
-      <p>A hospital appointment and queue management application.</p>
-      <p><strong>Stack:</strong> React · Vite · Supabase</p>
-      <p><sub>Major features implemented | Testing & improvements ongoing</sub></p>
+      <h3>🎥 TubeTalk AI</h3>
+      <p>A YouTube video chatbot powered by Retrieval-Augmented Generation (RAG), designed to answer questions using video transcripts.</p>
+      <p><strong>Focus:</strong> RAG · LLMs · Transcript Processing</p>
+      <p><sub>Currently building</sub></p>
     </td>
     <td width="50%">
+      <h3>🏥 SmartCare</h3>
+      <p>A hospital management application focused on patient dashboards, appointments and queue management.</p>
+      <p><strong>Stack:</strong> React · Vite · Supabase</p>
+      <p><sub>Development and improvements ongoing</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🧠 TaskMindAI</h3>
-      <p>A student productivity application focused on tasks, timetable and attendance.</p>
-      <p><strong>Focus:</strong> Student productivity · AI integration</p>
-      <p><sub>Initial structure ready | Development in progress</sub></p>
+      <p>An AI-powered student productivity application focused on tasks, timetable and attendance management.</p>
+      <p><strong>Focus:</strong> AI Integration · Student Productivity</p>
+      <p><sub>Rebuilding and improving the project</sub></p>
+    </td>
+    <td width="50%">
+      <h3>💡 More Projects</h3>
+      <p>Exploring new ideas and building practical applications as I learn new technologies.</p>
+      <p><strong>Focus:</strong> AI Engineering · Software Development</p>
     </td>
   </tr>
 </table>
@@ -85,10 +108,32 @@ I enjoy experimenting with technologies, integrating APIs, and turning what I le
 
 ### 🧪 Currently Exploring
 
-- Generative AI and LLM applications
-- LangChain and embeddings
-- Backend and API development
-- Practical Python development
+- Generative AI and Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- LangChain and Embeddings
+- Vector Databases and Retrieval
+- AI Agents and AI Workflows
+- Backend and API Development
+- Python Development and DSA
+
+---
+
+### 🏅 Certifications
+
+- Anthropic — AI Fluency
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shrivastavshaswat7-dot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivastavshaswat7-dot&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shrivastavshaswat7-dot&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -113,4 +158,3 @@ I enjoy experimenting with technologies, integrating APIs, and turning what I le
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer" width="100%" />
 </p>
-
