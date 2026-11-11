@@ -4,9 +4,9 @@
 
 <h3 align="center">⚡ CSE Student | Generative AI Explorer | Aspiring AI Engineer</h3>
 
-<p align="center">
+ <p align="center">
   <a href="https://shaswat-monochrome-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=85&section=header&text=EXPLORE%20MY%20PORTFOLIO%20%E2%86%97&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="Explore My Portfolio" />
   </a>
 </p>
 
