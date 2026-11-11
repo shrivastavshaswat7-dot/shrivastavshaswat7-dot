@@ -5,6 +5,12 @@
 <h3 align="center">⚡ CSE Student | Generative AI Explorer | Aspiring AI Engineer</h3>
 
 <p align="center">
+  <a href="https://shaswat-monochrome-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+things%2C+one+line+at+a+time...;Exploring+Generative+AI+%F0%9F%A4%96;Learning+%26+Building+with+LLM+APIs;Exploring+Software+Engineering;Turning+ideas+into+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
@@ -40,13 +46,15 @@ I enjoy experimenting with LLM APIs, exploring new technologies, solving problem
 - 💻 Practicing Data Structures & Algorithms in C++.
 - 🚀 Building projects to strengthen my engineering skills.
 
+🌐 **Portfolio:** [shaswat-monochrome-portfolio.vercel.app](https://shaswat-monochrome-portfolio.vercel.app/)
+
 ---
 
 ### 🎓 Education
 
 **Galgotias College of Engineering & Technology (GCET)**
 
-B.Tech — Computer Science & Engineering
+B.Tech — Computer Science & Engineering (2025–Present)
 
 ---
 
@@ -78,27 +86,35 @@ B.Tech — Computer Science & Engineering
   <tr>
     <td width="50%">
       <h3>🎥 TubeTalk AI</h3>
-      <p>A YouTube video chatbot powered by Retrieval-Augmented Generation (RAG), designed to answer questions using video transcripts.</p>
-      <p><strong>Focus:</strong> RAG · LLMs · Transcript Processing</p>
-      <p><sub>Currently building</sub></p>
+      <p>A RAG-based application that lets users chat with YouTube videos using their transcripts and receive context-aware answers with timestamp references.</p>
+      <p><strong>Stack:</strong> Python · FastAPI · Streamlit · Supabase · PostgreSQL · pgvector · FastEmbed · Groq</p>
+      <p><sub>Live Project · Retrieval-Augmented Generation</sub></p>
+      <p>
+        <a href="https://github.com/shrivastavshas7-dot/TubeTalk-AI">GitHub Repository</a> ·
+        <a href="https://tubetalk-ai-xij2mh2yewztfhgbmfatdn.streamlit.app/">Live Demo</a>
+      </p>
     </td>
     <td width="50%">
       <h3>🏥 SmartCare</h3>
-      <p>A hospital management application focused on patient dashboards, appointments and queue management.</p>
+      <p>A hospital management mini-project focused on authentication, patient dashboards and hospital workflows.</p>
       <p><strong>Stack:</strong> React · Vite · Supabase</p>
-      <p><sub>Development and improvements ongoing</sub></p>
+      <p>
+        <a href="https://github.com/shrivastavshas7-dot/SmartCare">GitHub Repository</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🧠 TaskMindAI</h3>
-      <p>An AI-powered student productivity application focused on tasks, timetable and attendance management.</p>
+      <p>An AI-assisted student productivity application focused on task management, timetable and attendance-related features.</p>
       <p><strong>Focus:</strong> AI Integration · Student Productivity</p>
-      <p><sub>Rebuilding and improving the project</sub></p>
+      <p>
+        <a href="https://github.com/shrivastavshas7-dot/TaskMindAI">GitHub Repository</a>
+      </p>
     </td>
     <td width="50%">
-      <h3>💡 More Projects</h3>
-      <p>Exploring new ideas and building practical applications as I learn new technologies.</p>
+      <h3>💡 More to Build</h3>
+      <p>Continuously learning, experimenting and turning new ideas into practical software projects.</p>
       <p><strong>Focus:</strong> AI Engineering · Software Development</p>
     </td>
   </tr>
@@ -127,12 +143,12 @@ B.Tech — Computer Science & Engineering
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shrivastavshaswat7-dot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivastavshaswat7-dot&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shrivastavshas7-dot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivastavshas7-dot&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shrivastavshaswat7-dot&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shrivastavshas7-dot&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -143,10 +159,10 @@ B.Tech — Computer Science & Engineering
   <a href="https://www.linkedin.com/in/shaswat-srivastav/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shrivastavshaswat7-dot">
+  <a href="https://github.com/shrivastavshas7-dot">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:shrivastavshaswat7@gmail.com">
+  <a href="mailto:shrivastavshas7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
